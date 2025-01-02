@@ -1,1 +1,1 @@
-# Risk-analysis-of-stocks
+# Risk analysis of stocks using CAPM in Excel
